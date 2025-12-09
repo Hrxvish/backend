@@ -5,12 +5,12 @@ Backend service for TruEstate Retail Sales Management System.
 Handles full-text search, multi-select/range-based filters, sorting, and pagination over the sales dataset.
 
 ## Tech Stack
-# Node.js
-# Express.js
-# MongoDB + Mongoose
-# REST API (JSON)
-# Modular service-based architecture
-# Environment Variables (.env)
+Node.js
+Express.js
+MongoDB + Mongoose
+REST API (JSON)
+Modular service-based architecture
+Environment Variables (.env)
 
 ## Search Implementation Summary
 - Full-text search on **Customer Name** and **Phone Number** (case-insensitive).
