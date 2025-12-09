@@ -6,10 +6,15 @@ Handles full-text search, multi-select/range-based filters, sorting, and paginat
 
 ## Tech Stack
 Node.js
+
 Express.js
+
 MongoDB + Mongoose
+
 REST API (JSON)
+
 Modular service-based architecture
+
 Environment Variables (.env)
 
 ## Search Implementation Summary
